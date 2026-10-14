@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Add a sitemap URL after configuring a real domain.
